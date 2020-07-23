@@ -29,7 +29,7 @@ Further help
 To get more help on the Angular CLI use ng help or go check out the Angular CLI README.
 
                                                 BackEnd:
-Used the IntelliJ IDEA CE to execute the Spring Boot Application.
+Use the IntelliJ IDEA CE to execute the Spring Boot Application.
 
 Downloaded the Spring Boot Starter Project (Maven files) from start.spring.io website by adding the dependencies for Spring Data JPA, Rest Repositories, MySQL Driver, and Lombok.
 
